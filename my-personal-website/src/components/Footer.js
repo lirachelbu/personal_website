@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <footer>
-      <p>Press S anytime to subscribe</p>
+      <p>Take a Deep Breath</p>
       {/* Additional footer content */}
     </footer>
   );
