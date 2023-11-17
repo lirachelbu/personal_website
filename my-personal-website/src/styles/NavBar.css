@@ -1,0 +1,22 @@
+.navbar {
+    display: flex;
+    justify-content: flex-end; /* Aligns items to the right */
+    padding: 20px; /* Add some padding on all sides */
+  }
+  
+  .nav-link {
+    margin-left: 20px; /* Adds spacing between links */
+    padding: 5px 10px; /* Add padding for extra space around the text */
+    text-decoration: none; /* Removes underline from links */
+    color: #333; /* Sets the text color */
+    font-size: 20px; /* Size of the font */
+  }
+  
+  .nav-link:last-child {
+    margin-right: 40px; /* Adds more space on the right of the last link */
+  }
+  
+  .nav-link:hover {
+    color: #007bff; /* Changes color on hover */
+  }
+  

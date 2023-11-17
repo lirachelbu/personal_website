@@ -1,7 +1,7 @@
 
-.app-background {
+.landing {
   min-height: 100vh;
-  background-image: linear-gradient(to bottom left, rgb(255, 164, 243), rgb(255, 219, 120));
+  background: linear-gradient(to bottom right, #EED9EB, #81A5FE);
 }
 
 
